@@ -1,3 +1,3 @@
 # IA Trader
 
-## Reinforcement learning agent to buy or sell stoks
+## Reinforcement learning agent to buy or sell stocks
